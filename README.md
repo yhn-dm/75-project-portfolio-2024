@@ -172,4 +172,4 @@ Vanilla JavaScript projects. Each subfolder is one project.
 
 ---
 
-*Portfolio — 70+ projects — 2024*
+*75-project-portfolio — 2024*
